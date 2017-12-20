@@ -1,0 +1,2 @@
+# ARMagicalGirlCard
+scan with Zappar
